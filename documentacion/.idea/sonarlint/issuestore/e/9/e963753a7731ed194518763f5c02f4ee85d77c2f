@@ -1,0 +1,12 @@
+
+e
+java:S2583
+"CChange this condition so that it does not always evaluate to "true"(ó–Æäşÿÿÿÿ8Ö“–û¬0
+D
+java:S1125"'Remove the unnecessary boolean literal.(ŞÓÌ8à“–û¬0
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(©ïÜŒ8à“–û¬0
+I
+java:S1125
+"'Remove the unnecessary boolean literal.(ó–Æäşÿÿÿÿ8à“–û¬0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µ’³µûÿÿÿÿ8à“–û¬0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñÁÙ8à“–û¬0

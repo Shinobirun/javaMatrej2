@@ -1,0 +1,19 @@
+
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(‘ÑĞ­øÿÿÿÿ8½–û¬0
+`
+java:S1854">Remove this useless assignment to local variable "resultado4".(‘ÑĞ­øÿÿÿÿ8Í–û¬0
+[
+java:S1854">Remove this useless assignment to local variable "resultado3".(Õ¼ïù8Í–û¬0
+`
+java:S1854">Remove this useless assignment to local variable "resultado2".(œĞã¤üÿÿÿÿ8Í–û¬0
+[
+java:S1854">Remove this useless assignment to local variable "resultado1".(£Òæ®8Í–û¬0
+L
+java:S1481"/Remove this unused "resultado1" local variable.(£Òæ®8Í–û¬0
+Q
+java:S1481"/Remove this unused "resultado2" local variable.(œĞã¤üÿÿÿÿ8Í–û¬0
+L
+java:S1481"/Remove this unused "resultado3" local variable.(Õ¼ïù8Í–û¬0
+Q
+java:S1481"/Remove this unused "resultado4" local variable.(‘ÑĞ­øÿÿÿÿ8Í–û¬0

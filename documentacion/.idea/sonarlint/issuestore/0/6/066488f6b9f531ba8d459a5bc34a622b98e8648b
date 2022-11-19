@@ -1,0 +1,46 @@
+
+]
+java:S1854'";Remove this useless assignment to local variable "numero2".(—ûì¯üÿÿÿÿ8£‰–û¬0
+^
+java:S1854""<Remove this useless assignment to local variable "apellido".(ÒÒû´øÿÿÿÿ8¤‰–û¬0
+\
+java:S1854!":Remove this useless assignment to local variable "nombre".(÷Áõ‡üÿÿÿÿ8¤‰–û¬0
+_
+java:S1854"=Remove this useless assignment to local variable "catacter1".(·»¾ªøÿÿÿÿ8¥‰–û¬0
+Y
+java:S1854"<Remove this useless assignment to local variable "decimal2".(Ùóèç8¥‰–û¬0
+^
+java:S1854"<Remove this useless assignment to local variable "decimal1".(Ò­˜ïüÿÿÿÿ8¦‰–û¬0
+]
+java:S1854";Remove this useless assignment to local variable "number4".(Â²¼ùüÿÿÿÿ8¦‰–û¬0
+X
+java:S1854";Remove this useless assignment to local variable "number3".(„„½¯8¦‰–û¬0
+]
+java:S1854";Remove this useless assignment to local variable "number2".(¯œÙÚÿÿÿÿÿ8¦‰–û¬0
+]	java:S125"<This block of commented-out lines of code should be removed.(ÖÛÿ¤ùÿÿÿÿ8Æ‰–û¬0
+I
+java:S1481",Remove this unused "number1" local variable.(Õë©Ó8Š–û¬0
+N
+java:S1481",Remove this unused "number2" local variable.(¯œÙÚÿÿÿÿÿ8žŠ–û¬0
+I
+java:S1481",Remove this unused "number3" local variable.(„„½¯8 Š–û¬0
+N
+java:S1481",Remove this unused "number4" local variable.(Â²¼ùüÿÿÿÿ8¢Š–û¬0
+O
+java:S1481"-Remove this unused "decimal1" local variable.(Ò­˜ïüÿÿÿÿ8£Š–û¬0
+J
+java:S1481"-Remove this unused "decimal2" local variable.(Ùóèç8¤Š–û¬0
+P
+java:S1481".Remove this unused "catacter1" local variable.(·»¾ªøÿÿÿÿ8¥Š–û¬0
+K
+java:S1481".Remove this unused "verdadero" local variable.(¹ÖçÓ8¦Š–û¬0
+L
+java:S1481"*Remove this unused "falso" local variable.(œÏ×Äùÿÿÿÿ8§Š–û¬0
+M
+java:S1481!"+Remove this unused "nombre" local variable.(÷Áõ‡üÿÿÿÿ8¨Š–û¬0
+O
+java:S1481""-Remove this unused "apellido" local variable.(ÒÒû´øÿÿÿÿ8ªŠ–û¬0
+H
+java:S1481&"+Remove this unused "numero" local variable.(»”û“8ÝŠ–û¬0
+N
+java:S1481'",Remove this unused "numero2" local variable.(—ûì¯üÿÿÿÿ8ÝŠ–û¬0
