@@ -6,6 +6,7 @@ public class Main {
         menu resto = new menu();
 
         resto.setMenu(resto.menu);
+        resto.buscarCom(resto.menu);
 
     }
 }
