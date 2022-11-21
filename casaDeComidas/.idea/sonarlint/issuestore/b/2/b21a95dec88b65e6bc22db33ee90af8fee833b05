@@ -1,0 +1,14 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãÄîä
+.
+java:S1700	"Rename field "menu"(á÷ï¨ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÙáÕÌÿÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ú¹¨ƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì›Åòıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒòöº
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(æËËéúÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÊšÒ
+M	java:S106."9Replace this use of System.out or System.err by a logger.(òß
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(Ÿû™€
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(µ¾¢Ô8Ö´†¦É0

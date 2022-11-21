@@ -1,0 +1,15 @@
+
+a
+java:S1192$"FDefine a constant instead of duplicating this literal "perro" 4 times.(°ğËÚøÿÿÿÿ
+\
+java:S1192""FDefine a constant instead of duplicating this literal "corto" 3 times.(Ç³©â
+a
+java:S1192$"FDefine a constant instead of duplicating this literal "macho" 5 times.(°ğËÚøÿÿÿÿ
+`
+java:S13017"KReplace this "switch" statement by "if" statements to increase readability.(ìúÇV
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(êĞ“Ëşÿÿÿÿ
+6	java:S1317""Add a default case to this switch.(ìúÇV
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(˜Î³ã
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(êĞ“Ëşÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ö…Ûûÿÿÿÿ
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(«—Î¹ùÿÿÿÿ8ĞõØÕÉ0
